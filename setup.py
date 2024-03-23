@@ -3,8 +3,8 @@ from setuptools import setup, find_packages
 setup(
     name="cloudrangalabs1",
     version="0.0.1",
-    author="Rekhu Chinnarathod",
-    author_email="vrchinnarathod@gmail.com",
+    author="Ranga Wanigathunga",
+    author_email="prwanigathunga@gmail.com",
     url="https://www.youtube.com/channel/UCv9MUffHWyo2GgLIDLVu0KQ",
     description="An application that informs you of the time in different locations and timezones",
     packages=find_packages(),
