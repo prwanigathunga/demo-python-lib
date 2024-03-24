@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="cloudrangalabs1",
+    name="cloudquicklabs1",
     version="0.0.1",
     author="Ranga Wanigathunga",
     author_email="prwanigathunga@gmail.com",
